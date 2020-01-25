@@ -1,4 +1,4 @@
-https://circleci.com/docs/2.0/status-badges/>
+[![CircleCI](https://circleci.com/gh/prhomhyse/ml-microservices.svg?style=svg)](https://circleci.com/gh/prhomhyse/ml-microservices/)
 
 ## Project Overview
 
