@@ -40,3 +40,9 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+#### Side Note
+Useful tools to lint your YAML files
+
+- [YAML Formatter](https://jsonformatter.org/yaml-formatter)
+- [YAMLlint](http://www.yamllint.com/)
