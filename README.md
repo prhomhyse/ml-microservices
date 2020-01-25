@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+https://circleci.com/docs/2.0/status-badges/>
 
 ## Project Overview
 
