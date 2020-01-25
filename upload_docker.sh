@@ -10,6 +10,9 @@ dockerpath=prhomhyse/microservicesml
 
 # Step 2:  
 # Authenticate & tag
+export DOCKER_ID_USER="prhomhyse"
+docker login
+docker tag microservicesml:1.1 $DOCKER_ID_USER/microservicesml
 echo "Docker ID and Image: $dockerpath"
 
 # Step 3:
